@@ -27,10 +27,10 @@ Musicana records want to store information on musicians, instruments, albums, an
 - **Musician_Song(MusicianID, SongTitle)** → Composite PK, FKs.  
 
 ### ERD
-![Case1 ERD](<img width="3894" height="3482" alt="musicia-red" src="https://github.com/user-attachments/assets/e18d3c6b-51b3-4233-b4d5-3e9d84544bce" />)
+![Case1 ERD](https://drive.google.com/file/d/1XSyd-YB4bKTvf-w-qcDCeAiz2CKwDFCX/view?usp=sharing)
 
 ### Mapping
-![Case1 Mapping](<img width="7744" height="6224" alt="musicia-map" src="https://github.com/user-attachments/assets/e3f0c125-f44f-45e2-947b-6322ee50eb1b" />)
+![Case1 Mapping](https://drive.google.com/file/d/19PZJ3E2weqzPaQckMKMjFSJF0Rlal9-2/view?usp=sharing)
 
 ---
 
@@ -54,10 +54,10 @@ A real estate firm with sales offices, employees, managers, properties, and owne
 - **Property_Owner(PropertyID, OwnerID, Percentage)** → Composite PK, FKs.
 
 ### ERD
-![Case2 ERD](<img width="6148" height="4311" alt="salesoffice-erd" src="https://github.com/user-attachments/assets/39bfe52f-2a3d-4c96-8242-e6a79a0974bb" />)
+![Case2 ERD](https://drive.google.com/file/d/1LA_PaCUU76D0TaWvVwGEvrcz00HP4V4V/view?usp=drive_link)
 
 ### Mapping
-![Case2 Mapping](<img width="7031" height="4904" alt="sales-office-map" src="https://github.com/user-attachments/assets/c7c04891-ed4a-42f5-904e-0e7121e251ba" />)
+![Case2 Mapping](https://drive.google.com/file/d/1R86zj3rrRk-jofBMDKSvaYhJqNjGZl51/view?usp=drive_link)
 
 ---
 
@@ -85,11 +85,11 @@ Hospital with wards, patients, consultants, nurses, and drugs.
 - **Drug_Record(DrugCode, PatientID, NurseID, Time, Date, Dosage)** → Composite PK, FKs.  
 
 ### ERD
-![Case3 ERD](<img width="7390" height="5413" alt="hospitial-erd" src="https://github.com/user-attachments/assets/b0905c2d-9bbc-46e0-8a41-2aed0a875b7a" />)
+![Case3 ERD](https://drive.google.com/file/d/1P4m-gCljID8zhVN0-4MrQm5JSrV1TT0V/view?usp=drive_link)
 
 
 ### Mapping
-![Case3 Mapping](<img width="13957" height="5094" alt="houstpital-map" src="https://github.com/user-attachments/assets/3c7206ed-df2e-419c-81a9-78291df3325e" />)
+![Case3 Mapping](https://drive.google.com/file/d/1F-ZuVJ3629ev295ml8gmF61VoDHBuCtp/view?usp=drive_link)
 
 ---
 
