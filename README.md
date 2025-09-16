@@ -27,10 +27,10 @@ Musicana records want to store information on musicians, instruments, albums, an
 - **Musician_Song(MusicianID, SongTitle)** → Composite PK, FKs.  
 
 ### ERD
-![Case1 ERD](https://drive.google.com/file/d/1XSyd-YB4bKTvf-w-qcDCeAiz2CKwDFCX/view?usp=sharing)
+![Case1 ERD](https://drive.google.com/uc?export=view&id=1XSyd-YB4bKTvf-w-qcDCeAiz2CKwDFCX)
 
 ### Mapping
-![Case1 Mapping](https://drive.google.com/file/d/19PZJ3E2weqzPaQckMKMjFSJF0Rlal9-2/view?usp=sharing)
+![Case1 Mapping](https://drive.google.com/uc?export=view&id=19PZJ3E2weqzPaQckMKMjFSJF0Rlal9-2)
 
 ---
 
@@ -54,10 +54,10 @@ A real estate firm with sales offices, employees, managers, properties, and owne
 - **Property_Owner(PropertyID, OwnerID, Percentage)** → Composite PK, FKs.
 
 ### ERD
-![Case2 ERD](https://drive.google.com/file/d/1LA_PaCUU76D0TaWvVwGEvrcz00HP4V4V/view?usp=drive_link)
+![Case2 ERD](https://drive.google.com/uc?export=view&id=1LA_PaCUU76D0TaWvVwGEvrcz00HP4V4V)
 
 ### Mapping
-![Case2 Mapping](https://drive.google.com/file/d/1R86zj3rrRk-jofBMDKSvaYhJqNjGZl51/view?usp=drive_link)
+![Case2 Mapping](https://drive.google.com/uc?export=view&id=1R86zj3rrRk-jofBMDKSvaYhJqNjGZl51)
 
 ---
 
@@ -85,12 +85,9 @@ Hospital with wards, patients, consultants, nurses, and drugs.
 - **Drug_Record(DrugCode, PatientID, NurseID, Time, Date, Dosage)** → Composite PK, FKs.  
 
 ### ERD
-![Case3 ERD](https://drive.google.com/file/d/1P4m-gCljID8zhVN0-4MrQm5JSrV1TT0V/view?usp=drive_link)
-
+![Case3 ERD](https://drive.google.com/uc?export=view&id=1P4m-gCljID8zhVN0-4MrQm5JSrV1TT0V)
 
 ### Mapping
-![Case3 Mapping](https://drive.google.com/file/d/1F-ZuVJ3629ev295ml8gmF61VoDHBuCtp/view?usp=drive_link)
+![Case3 Mapping](https://drive.google.com/uc?export=view&id=1F-ZuVJ3629ev295ml8gmF61VoDHBuCtp)
 
 ---
-
-
